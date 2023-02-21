@@ -1,2 +1,2 @@
 # Reto-Python
-Calcular números primos
+Ejercicio con Python
